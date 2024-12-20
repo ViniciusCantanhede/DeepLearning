@@ -1,0 +1,47 @@
+Biocombustível Marítimo.
+Desenvolver em escala de laboratório (TRL 3) o conceito para formulação de biocombustível naval.
+
+Eficiência de queima do biocombustível naval.
+Conceitualização de mistura de bicombustível naval à base de carvão para avaliação de desgaste do bico injetor naval, estudo de viabilidade da queima e avaliação de emissões.
+
+Biorrefinaria agroindustrial: rotas tecnológicas para valorização de subprodutos via geração de açúcares avançados e produção de biocombustíveis e bioquímicos.
+Desenvolvimento de rotas biotecnológicas para o aproveitamento de subprodutos agroindustriais como matérias-primas para a geração de açúcares avançados e a produção de biocombustíveis e de bioquímicos.
+
+Estratégias Enzimáticas para Biocombustiveis avançados.
+Desenvolver uma rota bioquímica para produzir biocombustíveis avançados através da descoberta e customização de novas enzimas.
+
+Rota biotecnológica para aproveitamento de subprodutos agroflorestais.
+Desenvolvimento de uma rota biotecnológica para aproveitamento de subprodutos agroflorestais visando a geração de açúcares avançados  e a produção de biocombustíveis.
+
+Desenvolvimento do processo de produção de combustíveis sustentáveis: etanol e querosene de aviação.
+Desenvolver um processo para produção de etanol e combustíveis sustentáveis de aviação (SAFs), que atendam aos requisitos de qualidade requerida pela norma ASTM D7566-20c, em duas macroetapas principais: conversão catalítica de CO2 e hidrogênio verde em etanol seguida da conversão catalítica deste álcool em hidrocarbonetos que componham o pool do biocombustível de aviação.
+
+Desenvolvimento de Solução Digital para Auxílio na Tomada de Decisão em Processos de União e Reparo
+Como objetivo geral do projeto, pretende-se contribuir com a inovação e digitização do Setor de Óleo, Gás e Biocombustíveis por meio do desenvolvimento de solução digital (SDSOLDA), para auxílio na tomada de decisão em processos de união e reparo, mitigando riscos de integridade.
+
+Desenvolvimento de me?todos para produc?a?o de bioquerosene/hidrocarbonetos verdes, utilizando mate?rias-primas de baixo valor agregado oriundas da matriz produtiva da indu?stria de alimentos e seus derivados.
+Obtenc?a?o de biocombustível a partir de  rejeitos da indu?stria alimenti?cia com vistas a produc?a?o de energia limpa.
+
+LIGNOOIL THERMOPROCESS.
+Desenvolvimento de uma rota tecnológica para a produção de bio-óleo pirolenhoso hidrotratado a partir de biomassas e ligninas para produção de biocombustíveis.
+
+Processo produção de biocombustível Eco-Flex a partir de cavaco de eucalipto.
+Processo produção de biocombustível Eco-Flex a partir de cavaco de eucalipto.
+
+Produção de biocombustíveis drop in a partir de bioóelo.
+Desenvolver um biocombustível verde para utilização em navios.
+
+Utilização de materiais renovaveis como agente formador de mesoporos para zeólitas hierárquicas - ZeoLignin.
+O desenvolvimento de zeólitas do tipo ZSM-5 usando lignina como modelo para a estrutura mesoporosa, explorando assim, o potencial da lignina como agente formador de mesoporos. Além disso, este projeto explorará o potencial das zeólitas à base de lignina como ingrediente para catalisador de baixo custo na pirólise de resíduos plásticos e na produção de biocombustíveis, melhorando as propriedades dos produtos, como seletividade e rendimento.
+
+Desenvolvimento de unidade de tratamento inteligente para o aproveitamento energético de resíduos urbanos.
+Desenvolver uma planta de conversão térmica inteligente, capaz de processar diferentes resíduos sem perda de eficiência, em escala semipiloto (200 kg/h), visando a obtenção de biocombustíveis. (coque, biogás e bio-óleo).
+
+Uso de Biocombustíveis e Resíduos para Redução das Emissões de CO2 na Produção de Aço para Indústria Automotiva.
+O presente projeto compreende uma investigação do comportamento de diferentes tipos de combustíveis sólidos alternativos aos materiais carbonosos convencionais para injeção em altos-fornos sob a ótica experimental em laboratório e a correlação com a prática do alto-forno da ArcelorMittal Tubarão. O estudo propõe a utilização de um equipamento recentemente construído no Laboratório de Siderurgia da UFRGS chamado simulador físico da zona de combustão, no qual é possível comparar diferentes combustíveis sólidos em termos de combustibilidade e comportamento da pressão durante a combustão.
+
+Bambu na industria de carvão.
+Na busca por alternativas viáveis e sustentáveis, avaliar o bambu como suprimento de matéria prima é algo fundamental, tendo em vista que as características físico-químicas das espécies de bambu tornam o biocombustível similar a outros combustíveis derivados de madeira. Entre as fontes alternativas, o bambu pode ser destacado por apresentar algumas propriedades similares à madeira e outros materiaislignocelulósicos em termos de teor de carbono e potencial calorífico (NMBA, 2005), além da vantagem econômica, uma vez que atinge seu pleno crescimento em apenas alguns meses e alcança sua máxima resistência mecânica em poucos anos. Algumas espécies de bambus apresentam potencial para fins energético, principalmente, espécies com colmos totalmente sólidos, como exemplo o Dendrocalmus stricus.  Entretanto, há a necessidade de iniciar projetos que visem o maior estudo de tal espécie, buscando assim, obter resultados satisfatórios quebrando os desafios. Dessa forma, o projeto visa avaliar as características das espécies de bambu como matéria prima para produção de carvão vegetal.
+
+UTILIZAR NO NER
+as matérias-primas mais utilizadas para a produção de biocombustíveis são cana-de-açúcar, milho, soja e óleos vegetais
